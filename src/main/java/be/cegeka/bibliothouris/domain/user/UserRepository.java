@@ -1,4 +1,4 @@
-package be.cegeka.bibliothouris.domain.users;
+package be.cegeka.bibliothouris.domain.user;
 
 import javax.inject.Named;
 import java.util.ArrayList;
